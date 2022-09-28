@@ -4,16 +4,13 @@
 </div>
 
 <!-- Social Links -->
-<p align = "center"> 
-  <a href = "https://twitter.com/Akshu_on_github">
-    <img src="https://user-images.githubusercontent.com/61582763/135242590-813d0136-38b8-4ff9-8e9d-2a07d8a90596.png" alt = "Twitter Icon">
-  </a>
-  <a href = "https://www.linkedin.com/in/akshaya-kulasekaran/">
-    <img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
+<p align = "center">
+  <a href = "https://www.linkedin.com/in/myte/">
+    <img src="assets/linkedin.png" alt = "LinkedIn Icon">
   </a>
 </p>
 
-
+![](../../Desktop/LinkedIn Profile Photo/Social Media Logos/linkedin (1).png)
 
 <!-- Selected 3 Projects -->
 <!-- FIRST PROJECT:  -->
