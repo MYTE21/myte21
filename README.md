@@ -10,8 +10,6 @@
   </a>
 </p>
 
-![](../../Desktop/LinkedIn Profile Photo/Social Media Logos/linkedin (1).png)
-
 <!-- Selected 3 Projects -->
 <!-- FIRST PROJECT:  -->
 | <img src="assets/hello_robot.jpg" style="width: 400px;" alt=""> | Hello test Hello test Hello test Hello test Hello test Hello test Hello test <br/>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test |
