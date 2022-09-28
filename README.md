@@ -66,7 +66,7 @@
 
 
 <div>
-    <table>
+    <table style="width: 100%">
         <thead>
           <tr>
             <th style="text-align:center"><img src="assets/hello_robot.jpg" style="width: 200px; border-radius: 50%; border: 2px solid lightgray" alt=""></th>
