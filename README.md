@@ -4,10 +4,10 @@
 </div>
 
 <div>
-    <table style="width: 500px"> 
+    <table> 
         <tr>
-            <td style="width: 50%">
-                <img src="assets/4015765_195.jpg" style="width: 400px;" alt="">
+            <td>
+                <img src="assets/4015765_195.jpg" style="width: 700px;" alt="">
             </td>
             <td>
                 <div style="border: 2px solid lightgray;">
