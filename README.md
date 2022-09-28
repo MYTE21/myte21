@@ -5,7 +5,7 @@
 
 <!-- Social Links -->
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/myte/">
+  <a href = "https://www.linkedin.com/in/myte/" target="_blank">
     <img src="assets/linkedin.png" alt = "LinkedIn Icon">
   </a>
 </p>
