@@ -89,3 +89,16 @@
         </tbody>
     </table>
 </div>
+
+
+
+
+
+
+
+
+
+
+| <img src="assets/hello_robot.jpg" style="width: 300px; border-radius: 50%; border: 2px solid lightgray" alt=""> | Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <center>PROJECT NAME</center>                                                                                   | USED TECHNOLOGIES                                                                                                                                                                                                                                                                                                                                                                                           |
