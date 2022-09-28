@@ -6,7 +6,7 @@
 <div>
     <table>
         <tr>
-            <td>
+            <td style="width: 200px">
                 <img src="assets/4015765_195.jpg" style="width: 200px; border-radius: 50%; border: 2px solid lightgray" alt="">
             </td>
             <td>
