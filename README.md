@@ -70,7 +70,10 @@
         <thead>
           <tr>
             <th><img src="assets/hello_robot.jpg" style="width: 200px; border-radius: 50%; border: 2px solid lightgray" alt=""></th>
-            <th>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test</th>
+            <th>
+                Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test
+                Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test
+            </th>
           </tr>
         </thead>
         <tbody>
