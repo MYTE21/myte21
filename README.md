@@ -10,7 +10,7 @@
                 <img src="assets/4015765_195.jpg" style="width: 200px; border-radius: 50%; border: 2px solid lightgray" alt="">
             </td>
             <td>
-                <div style="width: 800px; height: 200px; border: 2px solid lightgray; border-radius: 15% 15% 15% 15%;">
+                <div style="border: 2px solid lightgray;">
                     Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test
                     Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test
                     Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test
