@@ -69,9 +69,9 @@
     <table>
         <thead>
           <tr>
-            <th><img src="assets/hello_robot.jpg" style="width: 200px; border-radius: 50%; border: 2px solid lightgray" alt=""></th>
+            <th style="text-align:center"><img src="assets/hello_robot.jpg" style="width: 200px; border-radius: 50%; border: 2px solid lightgray" alt=""></th>
             <th>
-                Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>
+                Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test      <br>
                 Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>
                 Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>
                 Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test<br>
@@ -83,7 +83,7 @@
         </thead>
         <tbody>
           <tr>
-            <td>PROJECT NAME</td>
+            <td style="text-align:center">PROJECT NAME</td>
             <td>USED TECHNOLOGIES</td>
           </tr>
         </tbody>
