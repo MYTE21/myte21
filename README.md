@@ -7,10 +7,11 @@
         <table>
             <tr>
                 <td>
-                    <img src="assets/4015765_195.jpg" style="width: 250px; border-radius: 50%; border: 2px solid lightgray" alt="">
+                    <img src="assets/4015765_195.jpg" style="width: 150px; border-radius: 50%; border: 2px solid lightgray" alt="">
                 </td>
                 <td>
-                    <div style="width: 800px; height: 200px; border: 2px solid lightgray; border-radius: 15% 15% 15% 15%;x">
+                    <div style="width: 800px; height: 200px; border: 2px solid lightgray; border-radius: 15% 15% 15% 15%;">
+                        Hello test
                     </div>
                 </td>
             </tr>
