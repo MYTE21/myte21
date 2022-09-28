@@ -7,7 +7,7 @@
     <table style="width: 500px"> 
         <tr>
             <td style="width: 50%">
-                <img src="assets/4015765_195.jpg" style="width: 200px; border-radius: 50%; border: 2px solid lightgray" alt="">
+                <img src="assets/4015765_195.jpg" style="width: 400px;" alt="">
             </td>
             <td>
                 <div style="border: 2px solid lightgray;">
