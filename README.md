@@ -5,9 +5,15 @@
 
 <!-- Social Links -->
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/myte/" target="_blank">
-    <img src="assets/linkedin2.png" alt = "LinkedIn Icon">
-  </a>
+    <a href = "https://www.linkedin.com/in/myte/" target="_blank">
+        <img src="assets/linkedin.png" alt = "LinkedIn Icon">
+    </a>
+    <a href="#" target="_blank">
+        <img src="assets/personal_website.png" alt = "Gmail Icon">
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasmi.tohabar@gmail.com" target="_blank">
+        <img src="assets/gmail.png" alt = "Gmail Icon">
+    </a>
 </p>
 
 <!-- Selected 3 Projects -->
