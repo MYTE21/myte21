@@ -42,11 +42,11 @@ implementing models and performing mathematical and statistical analysis. I comp
 
 <!-- Top 3 Selected Projects -->
 ### ♨️ Top 3 Projects
-|                         Project                          |    **Name**     | Description                                                           | Technologies |
-|:--------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------|--------------|
-| <img src="assets/robot.png" style="width: 50px;" alt=""> | **COVID.Death** | Exploring and analysing the global data on confirmed COVID-19 deaths. | python       |
-| <img src="assets/robot.png" style="width: 50px;" alt=""> |  **DS.JobSal**  | Salaries of jobs in the Data Science domain.                          | python       |
-| <img src="assets/robot.png" style="width: 50px;" alt=""> |    **BAS.R**    | Bengali Automatic Speech Recognition                                  | python       |
+|                         Project                          |                              **Name**                              | Description                                                           | Technologies |
+|:--------------------------------------------------------:|:------------------------------------------------------------------:|-----------------------------------------------------------------------|--------------|
+| <img src="assets/robot.png" style="width: 50px;" alt=""> | <a href="https://github.com/MYTE21/COVID.Death"><b>COVID.Death</a> | Exploring and analysing the global data on confirmed COVID-19 deaths. | python       |
+| <img src="assets/robot.png" style="width: 50px;" alt=""> |                           **DS.JobSal**                            | Salaries of jobs in the Data Science domain.                          | python       |
+| <img src="assets/robot.png" style="width: 50px;" alt=""> |                             **BAS.R**                              | Bengali Automatic Speech Recognition                                  | python       |
 <!-- Link to all the repo -->
 <p align = "center">
     <a href = "https://github.com/MYTE21?tab=repositories&type=source" target="_blank">
