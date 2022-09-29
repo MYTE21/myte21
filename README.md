@@ -17,9 +17,7 @@
 </p>
 
 <!-- Title  -->
-<div align = "center">
-    <h3 style="font-family: Cursive">Machine Learning Enthusiast</h3>
-</div>
+<h3 align = "center"><b>Machine Learning Enthusiast</h3>
 
 
 <!-- Top 3 Selected Projects -->
