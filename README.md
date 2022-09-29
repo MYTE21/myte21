@@ -41,8 +41,8 @@ implementing models and performing mathematical and statistical analysis. I comp
 
 <!-- GitHub Statistics -->
 ### GitHub Statistics 🏷️
-<img height="162em" src="https://github-readme-stats.vercel.app/api?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
-<img height="162em" src="https://github-readme-streak-stats.herokuapp.com/?user=myte21&theme=dark&hide_border=true" alt="">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=myte21&theme=dark&hide_border=true" alt="">
 <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
 
 
