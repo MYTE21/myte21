@@ -19,7 +19,6 @@
 <!-- Title  -->
 <h3 align = "center"><b>Machine Learning Enthusiast</h3>
 
----
 [![](https://visitcount.itsvg.in/api?id=myte21&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- About Me  -->
