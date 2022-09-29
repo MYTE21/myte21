@@ -50,7 +50,7 @@ implementing models and performing mathematical and statistical analysis. I comp
 <!-- Link to all the repo -->
 <p align = "center">
     <a href = "https://github.com/MYTE21?tab=repositories&type=source" target="_blank">
-        🔗 <b>All Project Link </b>
+        🔗 <b>All Projects Link </b>
     </a> 
 </p>
 
