@@ -3,7 +3,7 @@
     <img src="assets/github_poster.jpg" alt="">
 </div>
 
-<!-- Social Links -->
+<!-- Social Links design -->
 <p align = "center">
     <a href = "https://www.linkedin.com/in/myte/" target="_blank">
         <img src="assets/linkedin.png" alt = "LinkedIn Icon">
