@@ -16,6 +16,12 @@
     </a>
 </p>
 
+<!-- Title  -->
+<div align = "center">
+    <h3 style="font-family: Cursive">Machine Learning Enthusiast</h3>
+</div>
+
+
 <!-- Top 3 Selected Projects -->
 <!-- FIRST PROJECT:  -->
 | <img src="assets/robot.png" style="width: 400px;" alt=""> | Hello test Hello test Hello test Hello test Hello test Hello test Hello test <br/>Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test Hello test |
