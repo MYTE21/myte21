@@ -31,7 +31,7 @@ implementing models and performing mathematical and statistical analysis. I comp
 * ✨ Interested in **Machine Learning** related `Technical Writing and Research` 
 
 <!-- Technologies -->
-## 🛠️ My Technologies
+### 🛠️ My Technologies
 |            **Languages**             |                            ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)                             |
 |:------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |            **Databases**             |                                                                                                                                                                                                                                                                                                 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                                                                                                                                                                                                                 |
@@ -41,7 +41,7 @@ implementing models and performing mathematical and statistical analysis. I comp
 
 
 <!-- Top 3 Selected Projects -->
-### Top 3 Projects ♨️
+### ♨️ Top 3 Projects
 |                         Project                          |    **Name**     | Description                                                           | Technologies |
 |:--------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------|--------------|
 | <img src="assets/robot.png" style="width: 50px;" alt=""> | **COVID.Death** | Exploring and analysing the global data on confirmed COVID-19 deaths. | python       |
@@ -56,7 +56,7 @@ implementing models and performing mathematical and statistical analysis. I comp
 
 
 <!-- GitHub Statistics -->
-### GitHub Statistics 🏷️
+### 🏷️ GitHub Statistics 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=myte21&theme=dark&hide_border=true" alt="">
 <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
