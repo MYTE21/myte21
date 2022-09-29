@@ -39,18 +39,24 @@ implementing models and performing mathematical and statistical analysis. I comp
 | **Framework, Platforms & Libraries** |              ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)              |
 |              **Others**              |                                                                                                                                                                                                                                              ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)                                                                                                                                                                                                                                              |
 
-<!-- GitHub Statistics -->
-### GitHub Statistics 🏷️
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=myte21&theme=dark&hide_border=true" alt="">
-<img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
-
-
 
 <!-- Top 3 Selected Projects -->
-### Top 3 Projects
+### Top 3 Projects ♨️
 |                         Project                          |    **Name**     | Description                                                           | Technologies |
 |:--------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------|--------------|
 | <img src="assets/robot.png" style="width: 50px;" alt=""> | **COVID.Death** | Exploring and analysing the global data on confirmed COVID-19 deaths. | python       |
 | <img src="assets/robot.png" style="width: 50px;" alt=""> |  **DS.JobSal**  | Salaries of jobs in the Data Science domain.                          | python       |
 | <img src="assets/robot.png" style="width: 50px;" alt=""> |    **BAS.R**    | Bengali Automatic Speech Recognition                                  | python       |
+<!-- Link to all the repo -->
+<p align = "center">
+    <a href = "https://github.com/MYTE21?tab=repositories&type=source" target="_blank">
+        🔗 <b>All Project Link </b>
+    </a> 
+</p>
+
+
+<!-- GitHub Statistics -->
+### GitHub Statistics 🏷️
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=myte21&theme=dark&hide_border=true" alt="">
+<img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
