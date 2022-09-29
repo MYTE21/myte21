@@ -9,7 +9,7 @@
         <img src="assets/linkedin.png" alt = "LinkedIn Icon">
     </a>
     <a href="#" target="_blank">
-        <img src="assets/personal_website.png" alt = "Gmail Icon">
+        <img src="assets/personal_website.png" alt = "Personal Website Icon">
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasmi.tohabar@gmail.com" target="_blank">
         <img src="assets/gmail.png" alt = "Gmail Icon">
