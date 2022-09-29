@@ -20,9 +20,7 @@
 <h3 align = "center"><b>Machine Learning Enthusiast</h3>
 
 <!-- About Me  -->
-I’m a <b>Machine Learning Enthusiast</b> and Full Stack Developer who is passionate about exploring data, 
-implementing models and performing mathematical and statistical analysis. I completed my B.Sc. in 
-**Software Engineering** from Shahjalal University of Science and Technology. I enjoy reading fiction books and travelling.
+I’m a **Machine Learning Enthusiast** and Full Stack Developer who is passionate about exploring data, implementing models and performing mathematical and statistical analysis. I completed my B.Sc. in **Software Engineering** from Shahjalal University of Science and Technology. I enjoy reading fiction books and travelling.
 
 
 <!-- Top 3 Selected Projects -->
