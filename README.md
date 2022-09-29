@@ -19,6 +19,9 @@
 <!-- Title  -->
 <h3 align = "center"><b>Machine Learning Enthusiast</h3>
 
+---
+[![](https://visitcount.itsvg.in/api?id=myte21&icon=5&color=12)](https://visitcount.itsvg.in)
+
 <!-- About Me  -->
 I’m a **Machine Learning Enthusiast** and Full Stack Developer who is passionate about exploring data, 
 implementing models and performing mathematical and statistical analysis. I completed my B.Sc. in 
