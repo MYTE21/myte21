@@ -24,8 +24,9 @@ I’m a **Machine Learning Enthusiast** and Full Stack Developer who is passiona
 implementing models and performing mathematical and statistical analysis. I completed my B.Sc. in 
 **Software Engineering** from Shahjalal University of Science and Technology. I enjoy reading fiction books and travelling.
 
-* Currently, learning `Deep Learning` and `TensorFlow`
-* 
+* ⚙️ Currently, working on `Deep Learning` and `TensorFlow`
+* 📒 Practicing `Data Structure` and `Algorithms`
+* ✨ Interested in **Machine Learning** related `Technical Writing and Research` 
 
 
 <!-- Top 3 Selected Projects -->
