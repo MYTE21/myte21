@@ -59,3 +59,6 @@ implementing models and performing mathematical and statistical analysis. I comp
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=myte21&theme=dark&hide_border=true" alt="">
 <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myte21&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="">
+
+[//]: # (<img height="165em" align="middle" src="assets/programming.svg" alt="">)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/myte21/myte21/src/quotes.json)
