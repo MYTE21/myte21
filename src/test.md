@@ -10,6 +10,13 @@
 @@ text in purple (and bold)@@
 ```
 
+$\color[rgb]{1,0,1} hello$
+
+$\color[RGB]{155,127,0} hello$
+
+$\color[gray]{0.3} hello$
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Discord) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn)
 
