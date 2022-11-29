@@ -10,7 +10,7 @@
 @@ text in purple (and bold)@@
 ```
 
-$\color[rgb]{1,0,1} hello$
+fsdfsdfsdf $\color[rgb]{1,0,1} hello$ fsrfdsf
 
 $\color[RGB]{155,127,0} hello$
 
