@@ -18,7 +18,7 @@ $\color[gray]{0.3} hello$
 
 This is red: $\colorbox{red}{text}$, isn't it?
 
-This must be red: $\color[rgb]{255,0,0} red$, right?
+This must be red: $\color[RGB]{255,0,0} red$, right?
 
 $${\color{green}Green}$$
 
