@@ -18,6 +18,8 @@ $\color[gray]{0.3} hello$
 
 This is red: $\colorbox{red}{text}$, isn't it?
 
+This must be red: $\color[red]{0.3} red$, right?
+
 $${\color{green}Green}$$
 
 
